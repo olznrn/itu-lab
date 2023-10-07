@@ -9,6 +9,11 @@ h1
     text-align: center;
     background-color: lightcyan;
 }
+textarea
+{
+  font-size: 15px;
+  text-align: center;
+}
 
 .center
 {

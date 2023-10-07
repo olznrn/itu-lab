@@ -22,6 +22,12 @@ h1
     color: grey;
     padding: 15px 32px;
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
     cursor: pointer;
+    margin-left: 50px;
+  }
+
+  .strict-select
+  {
+
   }

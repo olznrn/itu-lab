@@ -5,9 +5,10 @@ body
 
 h1
 {
-    color: red;
+    color: blue;
     text-align: center;
-    background-color: lightcyan;
+    background-color: lightgoldenrodyellow;
+    font-family: 'Play', sans-serif;
 }
 textarea
 {

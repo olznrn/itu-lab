@@ -37,3 +37,8 @@ textarea
   {
     margin-left: 45%;
   }
+
+.bt {
+  justify-content: center;
+  align-items: center;
+}

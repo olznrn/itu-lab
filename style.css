@@ -1,6 +1,8 @@
 body
 {
-  background-image: linear-gradient(180deg, rgb(209, 208, 208),rgb(189, 212, 223));
+  background-image: linear-gradient(0deg, rgb(159, 158, 243),rgb(189, 212, 223));
+  background-repeat: no-repeat;
+  height: 900px;
 }
 
 h1
@@ -9,6 +11,10 @@ h1
     text-align: center;
     background-color: lightgoldenrodyellow;
     font-family: 'Play', sans-serif;
+}
+
+h3 {
+  
 }
 textarea
 {
@@ -26,7 +32,8 @@ textarea
 
 .button {
     color: grey;
-    padding: 15px 32px;
+    padding: 20px 32px;
+    margin-top: 25px;
     text-align: center;
     font-size: 20px;
     cursor: pointer;
@@ -36,10 +43,11 @@ textarea
 .select
   {
     margin-left: 45%;
+    padding-top: 50px;
   }
 
 .bt {
-
+  padding-top: 15px;
 }
 
 .asuudal {

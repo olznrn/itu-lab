@@ -1,6 +1,6 @@
 body
 {
-
+  background-image: linear-gradient(180deg, rgb(209, 208, 208),rgb(189, 212, 223));
 }
 
 h1
@@ -33,12 +33,15 @@ textarea
     margin-left: 45%;
   }
 
-  .select
+.select
   {
     margin-left: 45%;
   }
 
 .bt {
-  justify-content: center;
-  align-items: center;
+  margin-left: -15%;
+}
+
+.asuudal {
+  margin-left: -13%;
 }
